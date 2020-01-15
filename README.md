@@ -37,7 +37,7 @@ zget load mattberther/zsh-nodenv
 Clone `zsh-nodenv` into your custom plugins repo and load as a plugin in your `.zshrc`
 
 ```shell
-git clone https://github.com/mattberther/zsh-nodenv ~/.oh-my-zsh/custom/plugins/zsh-pyenv
+git clone https://github.com/mattberther/zsh-nodenv ~/.oh-my-zsh/custom/plugins/zsh-nodenv
 ```
 
 ```
@@ -50,11 +50,11 @@ Keep in mind that plugins need to be added before `oh-my-zsh.sh` is sourced.
 Clone this repository somewhere (`~/.zsh-nodenv` for example) and source it in your `.zshrc`
 
 ```shell
-git clone https://github.com/mattberther/zsh-nodenv ~/.zsh-pyenv
+git clone https://github.com/mattberther/zsh-nodenv ~/.zsh-nodenv
 ```
 
 ```
-source ~/.zsh-nodenv/zsh-pyenv.plugin.zsh
+source ~/.zsh-nodenv/zsh-nodenv.plugin.zsh
 ```
 
 ### License
