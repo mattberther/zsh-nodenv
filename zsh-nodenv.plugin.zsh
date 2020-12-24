@@ -13,7 +13,7 @@ _zsh_nodenv_load() {
     # export PATH
     export PATH="$NODENV_HOME/bin:$PATH"
 
-    eval "$(nodenv init -)"
+    eval "$(nodenv init - zsh)"
 }
 
 # install nodenv if it isnt already installed
