@@ -30,7 +30,7 @@ zplug "mattberther/zsh-nodenv"
 Include the load command in your `.zshrc`
 
 ```
-zget load mattberther/zsh-nodenv
+zgen load mattberther/zsh-nodenv
 ```
 
 ### As an [Oh My ZSH!](https://github.com/robbyrussell/oh-my-zsh) custom plugin
